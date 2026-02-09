@@ -1,5 +1,7 @@
 # LED Snake — Arduino Uno R4 WiFi
 
+**[▶ Watch demo (YouTube Shorts)](https://youtube.com/shorts/_EfJRcotgnU?si=XzU-w_nD1h7yZcAh)**
+
 A classic Snake game for **Arduino Uno R4 WiFi** using the onboard LED matrix. Control is via an **HW-504** analog joystick; the score is shown on a **3461BS-1** 4-digit 7-segment display.
 
 ## Hardware
